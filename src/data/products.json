@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "productName": "Organic Herbal Tea",
+    "score": 72,
+    "explanation": "Moderate transparency. Missing sourcing details for 2 ingredients.",
+    "category": "Beverages",
+    "suggestions": [
+      "Add sourcing details for green tea leaves.",
+      "Include certification ID for 'organic' claim.",
+      "Clarify packaging recyclability."
+    ],
+    "flags": ["Incomplete sourcing", "Unverified organic claim"]
+  },
+  {
+    "id": 2,
+    "productName": "Cold Pressed Olive Oil",
+    "score": 85,
+    "category": "Beverages",
+    "explanation": "High transparency. Verified origin and certifications available.",
+    "suggestions": [],
+    "flags": []
+  },
+  {
+    "id": 4,
+    "productName": "Gluten-Free Multigrain Bread",
+    "score": 65,
+    "category": "Bakery",
+    "explanation": "Moderate transparency. Ingredient sources partially verified.",
+    "suggestions": [
+      "Provide certification proof for gluten-free claim.",
+      "List suppliers for all grains used."
+    ],
+    "flags": ["Incomplete ingredient sourcing"]
+  },
+  {
+    "id": 5,
+    "productName": "Natural Almond Butter",
+    "score": 60,
+    "category": "Spreads",
+    "explanation": "Excellent transparency. All sourcing and certifications verified.",
+    "suggestions": [],
+    "flags": []
+  },
+  {
+    "id": 6,
+    "productName": "Organic Coconut Water",
+    "score": 78,
+    "category": "Beverages",
+    "explanation": "Good transparency. Missing batch sourcing for some coconuts.",
+    "suggestions": ["Provide batch sourcing info for coconuts."],
+    "flags": ["Partial sourcing"]
+  },
+  {
+    "id": 7,
+    "productName": "Vegan Dark Chocolate",
+    "score": 82,
+    "category": "Snacks",
+    "explanation": "High transparency. Cocoa sourcing verified, certifications included.",
+    "suggestions": [],
+    "flags": []
+  },
+  {
+    "id": 8,
+    "productName": "Herbal Shampoo",
+    "score": 81,
+    "category": "Personal Care",
+    "explanation": "Moderate transparency. Some ingredient sources unverified.",
+    "suggestions": ["List suppliers for key herbal extracts."],
+    "flags": ["Unverified herbal extracts"]
+  },
+  {
+    "id": 9,
+    "productName": "Organic Quinoa",
+    "score": 53,
+    "category": "Grains",
+    "explanation": "Excellent transparency. Verified farm and organic certifications.",
+    "suggestions": [],
+    "flags": []
+  },
+  {
+    "id": 10,
+    "productName": "Cold Brew Coffee",
+    "score": 88,
+    "category": "Beverages",
+    "explanation": "Moderate transparency. Supplier details missing for some batches.",
+    "suggestions": ["Include supplier info for all coffee beans."],
+    "flags": ["Incomplete sourcing"]
+  },
+  {
+    "id": 11,
+    "productName": "Organic Coconut Oil",
+    "score": 79,
+    "category": "Personal Care",
+    "explanation": "Good transparency. Supplier details mostly verified.",
+    "suggestions": ["Add sourcing verification for some batches."],
+    "flags": ["Partial sourcing"]
+  },
+  {
+    "id": 12,
+    "productName": "Fairtrade Dark Chocolate",
+    "score": 92,
+    "category": "Snacks",
+    "explanation": "Excellent transparency with verified certifications.",
+    "suggestions": [],
+    "flags": []
+  },
+  {
+    "id": 13,
+    "productName": "Organic Oats",
+    "score": 84,
+    "category": "Grains",
+    "explanation": "Moderate transparency. Missing farm origin details for some oats.",
+    "suggestions": ["Include supplier information for all batches."],
+    "flags": ["Incomplete sourcing"]
+  },
+  {
+    "id": 14,
+    "productName": "Natural Face Cream",
+    "score": 50,
+    "category": "Personal Care",
+    "explanation": "Good transparency, but ingredient sourcing partially verified.",
+    "suggestions": ["Provide supplier details for herbal extracts."],
+    "flags": ["Unverified herbal extracts"]
+  },
+  {
+    "id": 15,
+    "productName": "Organic Honey",
+    "score": 93,
+    "category": "Beverages",
+    "explanation": "High transparency with full certification and supplier details.",
+    "suggestions": [],
+    "flags": []
+  },
+  {
+    "id": 16,
+    "productName": "Vegan Protein Bar",
+    "score": 85,
+    "category": "Snacks",
+    "explanation": "Moderate transparency. Some ingredients missing certification.",
+    "suggestions": ["Add certifications for plant-based protein sources."],
+    "flags": ["Unverified plant-based claim"]
+  }
+]
